@@ -12,3 +12,7 @@ Coursera online data analyst program prepares me for a career as a data analyst 
 
 ## Florida Population by County
 This simple dashboard was my first time working in Tableau. Using data from Census.gov I was able to generate this simple interactive dashboard. 
+
+https://public.tableau.com/app/profile/brian.walsh2283/viz/FloridaCountyPop/Dashboard1?publish=yes
+
+[FL County Pop 2015-2019.zip](https://github.com/Brian-Walsh-0396/Data-Analysis/files/9214784/FL.County.Pop.2015-2019.zip)
