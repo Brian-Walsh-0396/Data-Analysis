@@ -23,5 +23,6 @@ https://public.tableau.com/app/profile/brian.walsh2283/viz/WorldHappiness_165956
 
 ### Global CO2
 This project shows differnt mappings of CO2 Data with differnt specifications
-
-https://public.tableau.com/app/profile/brian.walsh2283/viz/GlobalCo2_16595688553310/CO2CapitaRegion?publish=yes
+The Linked Data file presetns the same information but pulls in data from other sources
+[Global CO2] (https://public.tableau.com/app/profile/brian.walsh2283/viz/GlobalCo2_16595688553310/CO2CapitaRegion?publish=yes)
+[Global CO2 Linked Data] (https://public.tableau.com/app/profile/brian.walsh2283/viz/GlobalCO2_LinkedData/Sheet1?publish=yes)
