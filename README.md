@@ -22,7 +22,7 @@ This project uses data to display happiness across the nations, I have added in 
 [World Happiness](https://public.tableau.com/app/profile/brian.walsh2283/viz/WorldHappiness_16595671474250/Sheet2?publish=yes)
 
 ### Global CO2
-This project shows differnt mappings of CO2 Data with differnt specifications. The Linked Data file presetns the same information but pulls in data from other sources
+This project shows differnt mappings of CO2 Data with differnt specifications. The Linked Data file presetns the same information but pulls in data from other sources and uses filtering to years, CO2 per capita, and energy usage.
 
 [Global CO2](https://public.tableau.com/app/profile/brian.walsh2283/viz/GlobalCo2_16595688553310/CO2CapitaRegion?publish=yes).
 
