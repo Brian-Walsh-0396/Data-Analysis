@@ -14,7 +14,7 @@ The Tableau workbook files for each Project can be found in the projects folder
 ### Florida Population by County
 This simple dashboard was my first time working in Tableau. Using data from Census.gov I was able to generate this simple interactive dashboard. 
 
-{Florida Population](https://public.tableau.com/app/profile/brian.walsh2283/viz/FloridaCountyPop/Dashboard1?publish=yes)
+[Florida Population](https://public.tableau.com/app/profile/brian.walsh2283/viz/FloridaCountyPop/Dashboard1?publish=yes)
 
 ### World Happiness
 This project uses data to display happiness across the nations, I have added in Life Expectancy and Freedom for additional values for comparison. The dashboards show charts comparining values like life expectancy vs happiness. 
