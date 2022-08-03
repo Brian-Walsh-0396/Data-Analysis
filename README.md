@@ -14,14 +14,16 @@ The Tableau workbook files for each Project can be found in the projects folder
 ### Florida Population by County
 This simple dashboard was my first time working in Tableau. Using data from Census.gov I was able to generate this simple interactive dashboard. 
 
-https://public.tableau.com/app/profile/brian.walsh2283/viz/FloridaCountyPop/Dashboard1?publish=yes
+{Florida Population](https://public.tableau.com/app/profile/brian.walsh2283/viz/FloridaCountyPop/Dashboard1?publish=yes)
 
 ### World Happiness
 This project uses data to display happiness across the nations, I have added in Life Expectancy and Freedom for additional values for comparison. The dashboards show charts comparining values like life expectancy vs happiness. 
 
-https://public.tableau.com/app/profile/brian.walsh2283/viz/WorldHappiness_16595671474250/Sheet2?publish=yes
+[World Happiness](https://public.tableau.com/app/profile/brian.walsh2283/viz/WorldHappiness_16595671474250/Sheet2?publish=yes)
 
 ### Global CO2
 This project shows differnt mappings of CO2 Data with differnt specifications. The Linked Data file presetns the same information but pulls in data from other sources
+
 [Global CO2](https://public.tableau.com/app/profile/brian.walsh2283/viz/GlobalCo2_16595688553310/CO2CapitaRegion?publish=yes).
+
 [Global CO2 Linked Data](https://public.tableau.com/app/profile/brian.walsh2283/viz/GlobalCO2_LinkedData/Sheet1?publish=yes).
