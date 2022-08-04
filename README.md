@@ -37,4 +37,5 @@ These projects were done as a part of the course, the rough code was supplied fo
 
 ### Smart Watch Data
 [**Code:**](https://github.com/Brian-Walsh-0396/Data-Analysis/blob/main/Projects/Python/Smartwatch%20Data%20Analysis/Code.py)
+
 **Description:** As smart watches and fitness trackers grow more popular, tracking data form users becomes more and more important in the world of health monitoring. 
