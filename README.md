@@ -1,15 +1,14 @@
 # Data Analysis - Brian Walsh
 
 ## About
-Hi, I'm Brian! I have a technical background and hold a Bachelors of Applied Science(BAS) degree in Supervison and Management (Polk State College), majoring in Business Information Techology. I have worked for 4 years in technolgoy playing roles as a Support Speclaist, Intern, and as a Implemenaaion Speclalist. After one year of transition from Implenentation to Data Analysis, I'm Data Analyst looking for new oppertunities. 
-
-## Certificate
-
-This repository is mainly for projects I have done under Coursera Google Data Analytics.
+Hi, I'm Brian! I have a technical background and hold a Bachelors of Applied Science(BAS) degree in Supervison and Management (Polk State College), majoring in Business Information Techology. I have worked for 4 years in technolgoy playing roles as a Support Speclaist, Intern, and as a Implementation Speclalist. During my schooling I was taught "Data is the new oil" as I worked to implement software and saw the needs of my clients I learned first hand how true this is. This inspired me to take the [Coursera Google Data Analytics Program](https://bit.ly/3zrdKdK)
 
 The Coursera Online Data Analyst Program prepared me for a career as a data analyst by helping me learn to clean and organize data, uncover patterns and insights, draw meaningful conclusions, and clearly communicate critical findings. 
 
 I am constantly improving my skills proficiency in Python and its data analysis libraries (Numpy, pandas, Matplotlib) and SQL as I build a portfolio of projects .
+
+## Certificate of Completion
+
 
 ## Projects
 The Tableau workbook files for each Project can be found in the projects folder. All coding projects in the Python folder contain the relivant csv files as well as the code file. 
@@ -40,9 +39,11 @@ These projects were done as a part of the course, the rough code was supplied fo
 
 **Description:** As smart watches and fitness trackers grow more popular, tracking data form users becomes more and more important in the world of health monitoring. 
 
+**Tools used** Pycharm, Numby, Pandas, plotly
 
 ### Netflix Analysis
-**Code:**[Fianl Code](https://github.com/Brian-Walsh-0396/Data-Analysis/tree/main/Projects/Python/Netflix%20Analysis)
+**Code:**[netflix.py](https://github.com/Brian-Walsh-0396/Data-Analysis/blob/main/Projects/Python/Netflix%20Analysis/main.py)
 
 **Description:** As Netflix reports losses and tests less than popular descions looking at where the suceeded may help pull the company back into favor
 
+**Tools used** Pycharm, Numby, Pandas, plotly
