@@ -1,4 +1,7 @@
-# Data Analysis
+# Data Analysis - Brian Walsh
+
+## About
+Hi, I'm Brian! I have a technical background and hold a Bachelors of Applied Science(BAS) degree in Supervison and Management (Polk State College), majoring in Business Information Techologu. I had worked for 4 years in technolgoy playing roles as a Support Speclaist, Intern, and as a Implemenaaion Speclalist. After one year of transition from Implenentation to Data Analysis, I'm Data Analyst looking for new oppertunities. 
 
 ## Certificate
 
