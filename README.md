@@ -9,7 +9,7 @@ The Coursera Online Data Analyst Program prepared me for a career as a data anal
 I am constantly improving my skills proficiency in Python and its data analysis libraries (Numpy, pandas, Matplotlib) and SQL as I build a portfolio of projects .
 
 ## Projects
-The Tableau workbook files for each Project can be found in the projects folder
+The Tableau workbook files for each Project can be found in the projects folder. All coding projects in the Python folder contain the relivant csv files as well as the code file. 
 
 ### Florida Population by County
 This simple dashboard was my first time working in Tableau. Using data from Census.gov I was able to generate this simple interactive dashboard. 
@@ -27,3 +27,7 @@ This project shows differnt mappings of CO2 Data with differnt specifications. T
 [Global CO2](https://public.tableau.com/app/profile/brian.walsh2283/viz/GlobalCo2_16595688553310/CO2CapitaRegion?publish=yes).
 
 [Global CO2 Linked Data](https://public.tableau.com/app/profile/brian.walsh2283/viz/GlobalCO2_LinkedData/Sheet1?publish=yes).
+
+
+## Python
+These projects were done as a part of the course, the rough code was supplied for me to analyise and complete the projects. 
