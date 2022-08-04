@@ -39,3 +39,10 @@ These projects were done as a part of the course, the rough code was supplied fo
 **Code:**[Fianl Code](https://github.com/Brian-Walsh-0396/Data-Analysis/blob/main/Projects/Python/Smartwatch%20Data%20Analysis/Code.py)
 
 **Description:** As smart watches and fitness trackers grow more popular, tracking data form users becomes more and more important in the world of health monitoring. 
+
+
+### Netflix Analysis
+**Code:**[Fianl Code](https://github.com/Brian-Walsh-0396/Data-Analysis/tree/main/Projects/Python/Netflix%20Analysis)
+
+**Description:** As Netflix reports losses and tests less than popular descions looking at where the suceeded may help pull the company back into favor
+
