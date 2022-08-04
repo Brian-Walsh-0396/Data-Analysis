@@ -1,7 +1,7 @@
 # Data Analysis - Brian Walsh
 
 ## About
-Hi, I'm Brian! I have a technical background and hold a Bachelors of Applied Science(BAS) degree in Supervison and Management (Polk State College), majoring in Business Information Techologu. I had worked for 4 years in technolgoy playing roles as a Support Speclaist, Intern, and as a Implemenaaion Speclalist. After one year of transition from Implenentation to Data Analysis, I'm Data Analyst looking for new oppertunities. 
+Hi, I'm Brian! I have a technical background and hold a Bachelors of Applied Science(BAS) degree in Supervison and Management (Polk State College), majoring in Business Information Techology. I have worked for 4 years in technolgoy playing roles as a Support Speclaist, Intern, and as a Implemenaaion Speclalist. After one year of transition from Implenentation to Data Analysis, I'm Data Analyst looking for new oppertunities. 
 
 ## Certificate
 
@@ -34,3 +34,7 @@ This project shows differnt mappings of CO2 Data with differnt specifications. T
 
 ## Python
 These projects were done as a part of the course, the rough code was supplied for me to analyise and complete the projects. 
+
+### Smart Watch Data
+**Code:**
+**Description:** As smart watches and fitness trackers grow more popular, tracking data form users becomes more and more important in the world of health monitoring. 
