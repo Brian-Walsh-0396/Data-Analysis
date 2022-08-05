@@ -5,7 +5,7 @@ Hi, I'm Brian! I have a technical background and hold a Bachelors of Applied Sci
 
 The Coursera Online Data Analyst Program prepared me for a career as a data analyst by helping me learn to clean and organize data, uncover patterns and insights, draw meaningful conclusions, and clearly communicate critical findings. 
 
-I am constantly improving my skills proficiency in Python and its data analysis libraries (Numpy, pandas, Matplotlib) and SQL as I build a portfolio of projects .
+I am constantly improving my skills proficiency in Python and its data analysis libraries (Numpy, pandas, Matplotlib), SQL as I build a portfolio of projects .
 
 ## Certificate of Completion
 
