@@ -13,6 +13,13 @@ I am constantly improving my skills proficiency in Python and its data analysis 
 ## Projects
 The Tableau workbook files for each Project can be found in the projects folder. All coding projects in the Python folder contain the relivant csv files as well as the code file. 
 
+### Capstone: Bike Share
+**Code:**
+
+**Description:** In this project I was asked to review the data from the users from the last year (August 2021-July 2022) and determine the best practices moving forward for the company. We saw that casual users slight beat out (+2%) membership users, additional member teirs could help convert users. We also saw that docked bikes make up the smallest share and could be phased out. Lastly, I discovered taht Mondays and Tuesdays are the slowest days for the rentals, a deal for members or a coupon for casual users could incentivise riders.
+
+**Tools used** Pycharm, Numby, Pandas, plotly
+
 ### Florida Population by County
 This simple dashboard was my first time working in Tableau. Using data from Census.gov I was able to generate this simple interactive dashboard. 
 
@@ -48,10 +55,5 @@ These projects were done as a part of the course, the rough code was supplied fo
 
 **Tools used** Pycharm, Numby, Pandas, plotly
 
-### Capstone: Bike Share
-**Code:**
 
-**Description:** In this project I was asked to review the data from the users from the last year (August 2021-July 2022) and determine the best practices moving forward for the company. We saw that casual users slight beat out (+2%) membership users, additional member teirs could help convert users. We also saw that docked bikes make up the smallest share and could be phased out. Lastly, I discovered taht Mondays and Tuesdays are the slowest days for the rentals, a deal for members or a coupon for casual users could incentivise riders.
-
-**Tools used** Pycharm, Numby, Pandas, plotly
 
