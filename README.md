@@ -7,7 +7,7 @@ The Coursera Online Data Analyst Program prepared me for a career as a data anal
 
 I am constantly improving my skills proficiency in Python and its data analysis libraries (Numpy, pandas, Matplotlib), SQL as I build a portfolio of projects .
 
-## Certificate of Completion
+## Certificate of Completion: [Credly Badge](https://www.credly.com/badges/d4c800c4-8a08-4121-9ee9-257761f1329f/public_url)
 
 
 ## Projects
