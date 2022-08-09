@@ -16,7 +16,7 @@ The Tableau workbook files for each Project can be found in the projects folder.
 ### Capstone: Bike Share
 **Code:**[Code](https://github.com/Brian-Walsh-0396/Data-Analysis/tree/main/Projects/Capstone)
 
-**Description:** In this project I was asked to review the data from the users from the last year (August 2021-July 2022) and determine the best practices moving forward for the company. We saw that casual users slight beat out (+2%) membership users, additional member teirs could help convert users. We also saw that docked bikes make up the smallest share and could be phased out. Lastly, I discovered taht Mondays and Tuesdays are the slowest days for the rentals, a deal for members or a coupon for casual users could incentivise riders.
+**Description:** In this project I was asked to review the data from the users from the last year (August 2021-July 2022) and determine the best practices moving forward for the company. We saw that casual users slight beat out (+2%) membership users, additional member teirs could help convert users. I also saw that docked bikes make up the smallest share and could be phased out. Lastly, I discovered taht Mondays and Tuesdays are the slowest days for the rentals, a deal for members or a coupon for casual users could incentivise riders.
 
 **Tools used** Pycharm, Numby, Pandas, plotly
 
