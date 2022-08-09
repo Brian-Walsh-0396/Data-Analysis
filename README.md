@@ -47,3 +47,11 @@ These projects were done as a part of the course, the rough code was supplied fo
 **Description:** As Netflix reports losses and tests less than popular descions looking at where the suceeded may help pull the company back into favor
 
 **Tools used** Pycharm, Numby, Pandas, plotly
+
+### Capstone: Bike Share
+**Code:**
+
+**Description:** In this project I was asked to review the data from the users from the last year (August 2021-July 2022) and determine the best practices moving forward for the company. We saw that casual users slight beat out (+2%) membership users, additional member teirs could help convert users. We also saw that docked bikes make up the smallest share and could be phased out. Lastly, I discovered taht Mondays and Tuesdays are the slowest days for the rentals, a deal for members or a coupon for casual users could incentivise riders.
+
+**Tools used** Pycharm, Numby, Pandas, plotly
+
